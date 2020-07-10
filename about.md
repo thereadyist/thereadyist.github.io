@@ -17,7 +17,7 @@ The topics I am primarily focused on are:
 
 And the best part is that it's all free!
 
-## Why should I trust you?
+## Why should I listen to you?
 
 I may not be a professional in all of these areas, but I'm the next best thing: a nerd! My goal here is to curate and share useful knowledge for the benefit of everyone.
 
@@ -41,4 +41,4 @@ Also note that while I am not selling anything, I may link to external resources
 
 ## Contact
 
-Questions? Comments? Criticism? DM me: [@thereadyist](https://twitter.com/thereadyist).
+Questions? Comments? DM me: [@thereadyist](https://twitter.com/thereadyist).
